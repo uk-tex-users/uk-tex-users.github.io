@@ -24,7 +24,7 @@ Since January 2021 one of us (Jonathan) has been running a weekly zoom TeX Hour 
 If there's interest we could have a regular UK TeX Hour, and occassional speaker and discussion meetings.
 
 The (international) TeX Hour usually meets every Thursday evening, 6:30 to 7:30pm UK time.
-Contact jfine2358@gmail.com for the zoom URL. Here's the TeX Hour [recorded videos].
+Contact jfine2358@gmail.com for the zoom URL. Here's the TeX Hour [recorded videos](https://www.youtube.com/channel/UCmCKEgzdM6fTYtfivRdzajw/playlists).
 
 # Credits
 
